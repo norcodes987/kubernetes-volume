@@ -1,1 +1,1 @@
-## Manafing Data and Persistent Volumes in Kubernetes
+## Managing Data and Persistent Volumes in Kubernetes
